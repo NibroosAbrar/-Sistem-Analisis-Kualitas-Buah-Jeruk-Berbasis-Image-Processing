@@ -1,0 +1,2 @@
+# -Sistem-Analisis-Kualitas-Buah-Jeruk-Berbasis-Image-Processing
+An innovative Python-based application designed to automatically analyze the quality of oranges. This application utilizes image processing technology to measure orange dimensions and predict sweetness levels (Brix). With an interactive interface powered by PyQt5, users can easily process fruit images and obtain analysis results in real-time. 
